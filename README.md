@@ -62,6 +62,7 @@ En caso de tener un equipo diferente se puede ingresar los datos manualmente
 <p align="center">
   <img width=500px src=https://github.com/JJ-Trejo/Arco-Electrico/blob/main/assets/Ventana_secundaria_2018_1.png>
 </p>
+
 - Paso 5. Determinar el tiempo de liberación de la falla (T) en milisegundos, de acuerdo con la corriente de arco (Iarc) mostrada en pantalla y dar clic en el botón calcular. Esto realizará el calculo de la energía incidente (E), el límite de arco eléctrico (AFB), la categoría de Equipo de protección personal (EPP) y la variación de la corriente de arco eléctrico (Iarcmin)
 - Paso 6. Realizar nuevamente el paso 6 usando (Iarcmin) para determinar el tiempo de liberación de la falla)
 NOTA: En la terminal de salida del compilador se imprimiran el proceso de calculo de forma ordenada como se muestra en la siguiente imagen:
@@ -71,11 +72,13 @@ NOTA: En la terminal de salida del compilador se imprimiran el proceso de calcul
   <img width=500px src=https://github.com/JJ-Trejo/Arco-Electrico/blob/main/assets/Output_2018_3.png>
   <img width=500px src=https://github.com/JJ-Trejo/Arco-Electrico/blob/main/assets/Output_2018_4.png>
 </p>
-## Guía de uso de la metodología IEEE 1584-2018
+
+## Guía de uso de la metodología IEEE 1584-2002
 Al seleccionar la metodología IEEE 1584-2002 se presenta la siguiente ventana
 <p align="center">
   <img width=500px src=https://github.com/JJ-Trejo/Arc-Flash-Calc/blob/main/assets/Ventana_principal_2002.png>
 </p>
+
 - Paso 1. Ingresar el voltaje del sistema en kV y la corriente de corto circuito en kA. Esto permitirá elegir diferentes configuración de equipo para seleccionar.
 - Paso 2. Seleccionar el tipo de equipo a analizar. En base al equipo seleccionado se actualizan automáticamente las variables: Distancia de trabajo y Distancia entre los conductores, ambos en milímetros.
 - Paso 3. Seleccionar si el equipo está aterrizado a tierra (Grounded), sin aterrizar (Ungrounded), o es de alta resistencia (High resistance)
@@ -83,6 +86,7 @@ Al seleccionar la metodología IEEE 1584-2002 se presenta la siguiente ventana
 <p align="center">
   <img width=500px src=https://github.com/JJ-Trejo/Arco-Electrico/blob/main/assets/Ventana_secundaria_2002_1.png>
 </p>
+
 - Paso 5. Determinar el tiempo de liberación de la falla (T) en milisegundos, de acuerdo con la corriente de arco (Iarc) mostrada en pantalla y dar clic en el botón calcular. Esto realizará el calculo de la energía incidente (E), el límite de arco eléctrico (AFB), la categoría de Equipo de protección personal (EPP). La variación de la corriente de arco (Iarcmin) es por defecto del 15% el valor original como lo establece la IEEE 1584-2002
 - Paso 6. Realizar nuevamente el paso 6 usando (Iarcmin) para determinar el tiempo de liberación de la falla)
 NOTA: En la terminal de salida del compilador se imprimiran el proceso de calculo de forma ordenada como se muestra en la siguiente imagen:
