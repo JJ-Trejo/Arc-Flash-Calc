@@ -49,7 +49,7 @@
 - Ejecutar el archivo principal "main_arco_electrico.py" con cualquier compilador que soporte Python. Sugiero usar Visual Estuio Code para ejecutar el programa
 Esto Abrirá la ventana principal como se muestra a continuación
 <p align="center">
-  <img width=500px src=https://github.com/JJ-Trejo/Arco-Electrico/blob/main/assets/Ventana_principal_2018.png>
+  <img width=500px src=https://github.com/JJ-Trejo/Arc-Flash-Calc/blob/main/assets/Ventana_principal_2018.png>
 </p>
 Como se puede apreciar en la imagen anterior, Al inicio del programa te pide seleccionar el método de cálculo, donde incialmente se tiene preseleccionado la opción IEEE 1584-2018 y varios datos por defecto.
 
@@ -74,7 +74,7 @@ NOTA: En la terminal de salida del compilador se imprimiran el proceso de calcul
 ## Guía de uso de la metodología IEEE 1584-2018
 Al seleccionar la metodología IEEE 1584-2002 se presenta la siguiente ventana
 <p align="center">
-  <img width=500px src=https://github.com/JJ-Trejo/Arco-Electrico/blob/main/assets/Ventana_principal_2002.png>
+  <img width=500px src=https://github.com/JJ-Trejo/Arc-Flash-Calc/blob/main/assets/Ventana_principal_2002.png>
 </p>
 - Paso 1. Ingresar el voltaje del sistema en kV y la corriente de corto circuito en kA. Esto permitirá elegir diferentes configuración de equipo para seleccionar.
 - Paso 2. Seleccionar el tipo de equipo a analizar. En base al equipo seleccionado se actualizan automáticamente las variables: Distancia de trabajo y Distancia entre los conductores, ambos en milímetros.
