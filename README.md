@@ -46,7 +46,7 @@
 ## Guía de instlación
 - Descargar el repositorio en cualquier carpeta de tu computadora
 - Instalar la biblioteca numpy usando la terminal de Python colocando el siguiente codigo: Pip install numpy
-- Ejecutar el archivo principal "main_arco_electrico.py" con cualquier compilador que soporte Python. Sugiero usar Visual Estuio Code para ejecutar el programa
+- Ejecutar el archivo principal "main_arco_electrico.py". Sugiero usar el entorno de desarrollo integrado Visual Estuio Code para ejecutar el programa.
 Esto Abrirá la ventana principal como se muestra a continuación
 <p align="center">
   <img width=500px src=https://github.com/JJ-Trejo/Arc-Flash-Calc/blob/main/assets/Ventana_principal_2018.png>
